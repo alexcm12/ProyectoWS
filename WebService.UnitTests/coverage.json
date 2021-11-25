@@ -1,0 +1,5314 @@
+{
+  "WebService.Api.dll": {
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Program.cs": {
+      "WebService.Program": {
+        "Microsoft.Extensions.Hosting.IHostBuilder WebService.Program::CreateHostBuilder(System.String[])": {
+          "Lines": {
+            "41": 1,
+            "42": 1,
+            "43": 1,
+            "44": 1,
+            "45": 2
+          },
+          "Branches": []
+        }
+      },
+      "WebService.Program/<Main>d__0": {
+        "System.Void WebService.Program/<Main>d__0::MoveNext()": {
+          "Lines": {
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "37": 0,
+            "38": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Startup.cs": {
+      "WebService.Startup": {
+        "Microsoft.Extensions.Configuration.IConfiguration WebService.Startup::get_Configuration()": {
+          "Lines": {
+            "19": 0
+          },
+          "Branches": []
+        },
+        "System.Void WebService.Startup::ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)": {
+          "Lines": {
+            "23": 1,
+            "27": 1,
+            "28": 1,
+            "29": 1,
+            "30": 1
+          },
+          "Branches": []
+        },
+        "System.Void WebService.Startup::Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)": {
+          "Lines": {
+            "34": 1,
+            "35": 1,
+            "37": 1,
+            "39": 1,
+            "41": 1,
+            "43": 1,
+            "45": 1,
+            "46": 1,
+            "47": 1,
+            "48": 2,
+            "49": 1
+          },
+          "Branches": []
+        },
+        "System.Void WebService.Startup::.ctor(Microsoft.Extensions.Configuration.IConfiguration)": {
+          "Lines": {
+            "14": 1,
+            "15": 1,
+            "16": 1,
+            "17": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Services\\PhotoService.cs": {
+      "WebService.Services.PhotoService": {
+        "System.Void WebService.Services.PhotoService::.ctor(Microsoft.Extensions.Options.IOptions`1<WebService.Helpers.CloudinarySettings>)": {
+          "Lines": {
+            "18": 5,
+            "19": 5,
+            "20": 5,
+            "21": 5,
+            "22": 5,
+            "23": 5,
+            "24": 5,
+            "25": 5,
+            "27": 5,
+            "28": 5
+          },
+          "Branches": []
+        }
+      },
+      "WebService.Services.PhotoService/<AddPhotoAsync>d__2": {
+        "System.Void WebService.Services.PhotoService/<AddPhotoAsync>d__2::MoveNext()": {
+          "Lines": {
+            "30": 1,
+            "31": 1,
+            "33": 1,
+            "34": 1,
+            "35": 1,
+            "36": 1,
+            "37": 1,
+            "38": 1,
+            "39": 1,
+            "40": 1,
+            "41": 1,
+            "42": 1,
+            "43": 1,
+            "44": 1,
+            "45": 1,
+            "46": 1,
+            "47": 1,
+            "48": 1
+          },
+          "Branches": [
+            {
+              "Line": 33,
+              "Offset": 43,
+              "EndOffset": 48,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 33,
+              "Offset": 43,
+              "EndOffset": 368,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "WebService.Services.PhotoService/<DeletePhotoAsync>d__3": {
+        "System.Void WebService.Services.PhotoService/<DeletePhotoAsync>d__3::MoveNext()": {
+          "Lines": {
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "55": 0,
+            "56": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Services\\TokenService.cs": {
+      "WebService.Services.TokenService": {
+        "System.Void WebService.Services.TokenService::.ctor(Microsoft.Extensions.Configuration.IConfiguration,Microsoft.AspNetCore.Identity.UserManager`1<WebService.Entities.AppUser>)": {
+          "Lines": {
+            "21": 28,
+            "22": 28,
+            "23": 28,
+            "24": 28,
+            "25": 28
+          },
+          "Branches": []
+        }
+      },
+      "WebService.Services.TokenService/<>c": {
+        "System.Security.Claims.Claim WebService.Services.TokenService/<>c::<CreateToken>b__3_0(System.String)": {
+          "Lines": {
+            "37": 60
+          },
+          "Branches": []
+        }
+      },
+      "WebService.Services.TokenService/<CreateToken>d__3": {
+        "System.Void WebService.Services.TokenService/<CreateToken>d__3::MoveNext()": {
+          "Lines": {
+            "28": 25,
+            "29": 25,
+            "30": 25,
+            "31": 25,
+            "32": 25,
+            "33": 25,
+            "35": 25,
+            "39": 25,
+            "41": 25,
+            "42": 25,
+            "43": 25,
+            "44": 25,
+            "45": 25,
+            "46": 25,
+            "48": 25,
+            "50": 25,
+            "52": 25,
+            "53": 25
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Middleware\\ExceptionMiddleware.cs": {
+      "WebService.Middleware.ExceptionMiddleware": {
+        "System.Void WebService.Middleware.ExceptionMiddleware::.ctor(Microsoft.AspNetCore.Http.RequestDelegate,Microsoft.Extensions.Logging.ILogger`1<WebService.Middleware.ExceptionMiddleware>,Microsoft.Extensions.Hosting.IHostEnvironment)": {
+          "Lines": {
+            "18": 1,
+            "19": 1,
+            "20": 1,
+            "21": 1,
+            "22": 1,
+            "23": 1,
+            "24": 1
+          },
+          "Branches": []
+        }
+      },
+      "WebService.Middleware.ExceptionMiddleware/<InvokeAsync>d__4": {
+        "System.Void WebService.Middleware.ExceptionMiddleware/<InvokeAsync>d__4::MoveNext()": {
+          "Lines": {
+            "27": 57,
+            "29": 57,
+            "30": 57,
+            "31": 55,
+            "32": 2,
+            "33": 2,
+            "34": 2,
+            "35": 2,
+            "36": 2,
+            "37": 2,
+            "38": 2,
+            "39": 2,
+            "41": 2,
+            "42": 2,
+            "43": 2,
+            "44": 2,
+            "46": 2,
+            "48": 2,
+            "49": 2,
+            "50": 57
+          },
+          "Branches": [
+            {
+              "Line": 37,
+              "Offset": 310,
+              "EndOffset": 312,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 310,
+              "EndOffset": 341,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 37,
+              "Offset": 380,
+              "EndOffset": 382,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 380,
+              "EndOffset": 386,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 2
+            }
+          ]
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Helpers\\AutoMapperProfiles.cs": {
+      "WebService.Helpers.AutoMapperProfiles": {
+        "System.Void WebService.Helpers.AutoMapperProfiles::.ctor()": {
+          "Lines": {
+            "11": 1,
+            "12": 1,
+            "13": 1,
+            "14": 1,
+            "15": 1,
+            "16": 1,
+            "17": 1,
+            "18": 1,
+            "19": 2,
+            "20": 1,
+            "21": 1,
+            "22": 1,
+            "23": 1,
+            "24": 1,
+            "25": 1,
+            "26": 1,
+            "27": 1,
+            "28": 1,
+            "29": 2,
+            "30": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Helpers\\CloudinarySettings.cs": {
+      "WebService.Helpers.CloudinarySettings": {
+        "System.String WebService.Helpers.CloudinarySettings::get_CloudName()": {
+          "Lines": {
+            "6": 7
+          },
+          "Branches": []
+        },
+        "System.String WebService.Helpers.CloudinarySettings::get_ApiKey()": {
+          "Lines": {
+            "7": 7
+          },
+          "Branches": []
+        },
+        "System.String WebService.Helpers.CloudinarySettings::get_ApiSecret()": {
+          "Lines": {
+            "8": 7
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Helpers\\LikesParams.cs": {
+      "WebService.Helpers.LikesParams": {
+        "System.Int32 WebService.Helpers.LikesParams::get_UserId()": {
+          "Lines": {
+            "10": 3
+          },
+          "Branches": []
+        },
+        "System.String WebService.Helpers.LikesParams::get_Predicate()": {
+          "Lines": {
+            "11": 3
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Helpers\\LogUserActivity.cs": {
+      "WebService.Helpers.LogUserActivity/<OnActionExecutionAsync>d__0": {
+        "System.Void WebService.Helpers.LogUserActivity/<OnActionExecutionAsync>d__0::MoveNext()": {
+          "Lines": {
+            "13": 55,
+            "14": 55,
+            "16": 63,
+            "18": 47,
+            "19": 47,
+            "20": 47,
+            "21": 47,
+            "22": 47,
+            "23": 55
+          },
+          "Branches": [
+            {
+              "Line": 16,
+              "Offset": 196,
+              "EndOffset": 198,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 8
+            },
+            {
+              "Line": 16,
+              "Offset": 196,
+              "EndOffset": 203,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 47
+            }
+          ]
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Helpers\\MessageParams.cs": {
+      "WebService.Helpers.MessageParams": {
+        "System.String WebService.Helpers.MessageParams::get_Username()": {
+          "Lines": {
+            "10": 6
+          },
+          "Branches": []
+        },
+        "System.String WebService.Helpers.MessageParams::get_Container()": {
+          "Lines": {
+            "11": 5
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Helpers\\PagedList.cs": {
+      "WebService.Helpers.PagedList`1": {
+        "System.Int32 WebService.Helpers.PagedList`1::get_CurrentPage()": {
+          "Lines": {
+            "21": 8
+          },
+          "Branches": []
+        },
+        "System.Int32 WebService.Helpers.PagedList`1::get_PageSize()": {
+          "Lines": {
+            "22": 8
+          },
+          "Branches": []
+        },
+        "System.Int32 WebService.Helpers.PagedList`1::get_TotalCount()": {
+          "Lines": {
+            "23": 8
+          },
+          "Branches": []
+        },
+        "System.Int32 WebService.Helpers.PagedList`1::get_TotalPages()": {
+          "Lines": {
+            "24": 8
+          },
+          "Branches": []
+        },
+        "System.Void WebService.Helpers.PagedList`1::.ctor(System.Collections.Generic.IEnumerable`1<T>,System.Int32,System.Int32,System.Int32)": {
+          "Lines": {
+            "12": 4,
+            "13": 4,
+            "14": 4,
+            "15": 4,
+            "16": 4,
+            "17": 4,
+            "18": 4,
+            "19": 4
+          },
+          "Branches": []
+        }
+      },
+      "WebService.Helpers.PagedList`1/<CreateAsync>d__17": {
+        "System.Void WebService.Helpers.PagedList`1/<CreateAsync>d__17::MoveNext()": {
+          "Lines": {
+            "27": 4,
+            "28": 4,
+            "29": 4,
+            "30": 4,
+            "31": 4
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Helpers\\PaginationHeader.cs": {
+      "WebService.Helpers.PaginationHeader": {
+        "System.Int32 WebService.Helpers.PaginationHeader::get_CurrentPage()": {
+          "Lines": {
+            "18": 8
+          },
+          "Branches": []
+        },
+        "System.Int32 WebService.Helpers.PaginationHeader::get_ItemsPerPage()": {
+          "Lines": {
+            "19": 8
+          },
+          "Branches": []
+        },
+        "System.Int32 WebService.Helpers.PaginationHeader::get_TotalItems()": {
+          "Lines": {
+            "20": 8
+          },
+          "Branches": []
+        },
+        "System.Int32 WebService.Helpers.PaginationHeader::get_TotalPages()": {
+          "Lines": {
+            "21": 8
+          },
+          "Branches": []
+        },
+        "System.Void WebService.Helpers.PaginationHeader::.ctor(System.Int32,System.Int32,System.Int32,System.Int32)": {
+          "Lines": {
+            "10": 4,
+            "11": 4,
+            "12": 4,
+            "13": 4,
+            "14": 4,
+            "15": 4,
+            "16": 4
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Helpers\\PaginationParams.cs": {
+      "WebService.Helpers.PaginationParams": {
+        "System.Int32 WebService.Helpers.PaginationParams::get_PageNumber()": {
+          "Lines": {
+            "11": 8
+          },
+          "Branches": []
+        },
+        "System.Int32 WebService.Helpers.PaginationParams::get_PageSize()": {
+          "Lines": {
+            "16": 4
+          },
+          "Branches": []
+        },
+        "System.Void WebService.Helpers.PaginationParams::set_PageSize(System.Int32)": {
+          "Lines": {
+            "17": 0
+          },
+          "Branches": [
+            {
+              "Line": 17,
+              "Offset": 4,
+              "EndOffset": 6,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 17,
+              "Offset": 4,
+              "EndOffset": 9,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void WebService.Helpers.PaginationParams::.ctor()": {
+          "Lines": {
+            "12": 4
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Helpers\\UserParams.cs": {
+      "WebService.Helpers.UserParams": {
+        "System.String WebService.Helpers.UserParams::get_CurrentUsername()": {
+          "Lines": {
+            "10": 3
+          },
+          "Branches": []
+        },
+        "System.String WebService.Helpers.UserParams::get_Gender()": {
+          "Lines": {
+            "11": 4
+          },
+          "Branches": []
+        },
+        "System.Int32 WebService.Helpers.UserParams::get_MinAge()": {
+          "Lines": {
+            "12": 2
+          },
+          "Branches": []
+        },
+        "System.Int32 WebService.Helpers.UserParams::get_MaxAge()": {
+          "Lines": {
+            "13": 2
+          },
+          "Branches": []
+        },
+        "System.String WebService.Helpers.UserParams::get_OrderBy()": {
+          "Lines": {
+            "14": 2
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Extensions\\ApplicationServiceExtensions.cs": {
+      "WebService.Extensions.ApplicationServiceExtensions": {
+        "Microsoft.Extensions.DependencyInjection.IServiceCollection WebService.Extensions.ApplicationServiceExtensions::AddApplicationServices(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.Configuration.IConfiguration)": {
+          "Lines": {
+            "14": 1,
+            "15": 1,
+            "16": 1,
+            "17": 1,
+            "18": 1,
+            "19": 1,
+            "20": 1,
+            "21": 1,
+            "22": 1,
+            "23": 1,
+            "24": 0,
+            "25": 0,
+            "26": 1,
+            "27": 1,
+            "28": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Extensions\\ClaimsPrincipleExtensions.cs": {
+      "WebService.Extensions.ClaimPrincipalExtensions": {
+        "System.String WebService.Extensions.ClaimPrincipalExtensions::GetUsername(System.Security.Claims.ClaimsPrincipal)": {
+          "Lines": {
+            "8": 16,
+            "9": 16,
+            "10": 16
+          },
+          "Branches": [
+            {
+              "Line": 9,
+              "Offset": 13,
+              "EndOffset": 15,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 9,
+              "Offset": 13,
+              "EndOffset": 19,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 16
+            }
+          ]
+        },
+        "System.Int32 WebService.Extensions.ClaimPrincipalExtensions::GetUserId(System.Security.Claims.ClaimsPrincipal)": {
+          "Lines": {
+            "12": 53,
+            "13": 53,
+            "14": 53
+          },
+          "Branches": [
+            {
+              "Line": 13,
+              "Offset": 13,
+              "EndOffset": 15,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 13,
+              "Offset": 13,
+              "EndOffset": 19,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 53
+            }
+          ]
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Extensions\\DateTimeExtensions.cs": {
+      "WebService.Extensions.DateTimeExtensions": {
+        "System.Int32 WebService.Extensions.DateTimeExtensions::CalculateAge(System.DateTime)": {
+          "Lines": {
+            "8": 6,
+            "9": 6,
+            "10": 6,
+            "11": 7,
+            "13": 6,
+            "14": 6
+          },
+          "Branches": [
+            {
+              "Line": 11,
+              "Offset": 46,
+              "EndOffset": 48,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 11,
+              "Offset": 46,
+              "EndOffset": 52,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 6
+            }
+          ]
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Extensions\\HttpExtensions.cs": {
+      "WebService.Extensions.HttpExtensions": {
+        "System.Void WebService.Extensions.HttpExtensions::AddPaginationHeader(Microsoft.AspNetCore.Http.HttpResponse,System.Int32,System.Int32,System.Int32,System.Int32)": {
+          "Lines": {
+            "10": 4,
+            "11": 4,
+            "13": 4,
+            "14": 4,
+            "15": 4,
+            "16": 4,
+            "18": 4,
+            "19": 4,
+            "21": 4
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Extensions\\IdentityServiceExtensions.cs": {
+      "WebService.Extensions.IdentityServiceExtensions": {
+        "Microsoft.Extensions.DependencyInjection.IServiceCollection WebService.Extensions.IdentityServiceExtensions::AddIdentityServices(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.Configuration.IConfiguration)": {
+          "Lines": {
+            "15": 1,
+            "16": 1,
+            "17": 2,
+            "18": 2,
+            "19": 2,
+            "20": 1,
+            "21": 1,
+            "22": 1,
+            "23": 1,
+            "24": 1,
+            "26": 1,
+            "27": 1,
+            "28": 1,
+            "29": 1,
+            "30": 1,
+            "31": 1,
+            "32": 1,
+            "33": 1,
+            "34": 1,
+            "35": 1,
+            "36": 2,
+            "37": 1,
+            "38": 1,
+            "39": 2,
+            "40": 2,
+            "41": 2,
+            "43": 1,
+            "44": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Errors\\ApiException.cs": {
+      "WebService.Errors.ApiException": {
+        "System.Int32 WebService.Errors.ApiException::get_StatusCode()": {
+          "Lines": {
+            "5": 4
+          },
+          "Branches": []
+        },
+        "System.String WebService.Errors.ApiException::get_Message()": {
+          "Lines": {
+            "7": 4
+          },
+          "Branches": []
+        },
+        "System.String WebService.Errors.ApiException::get_Details()": {
+          "Lines": {
+            "9": 4
+          },
+          "Branches": []
+        },
+        "System.Void WebService.Errors.ApiException::.ctor(System.Int32,System.String,System.String)": {
+          "Lines": {
+            "11": 2,
+            "12": 2,
+            "13": 2,
+            "14": 2,
+            "15": 2,
+            "16": 2
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Entities\\AppRole.cs": {
+      "WebService.Entities.AppRole": {
+        "System.Collections.Generic.ICollection`1<WebService.Entities.AppUserRole> WebService.Entities.AppRole::get_UserRoles()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Entities\\AppUser.cs": {
+      "WebService.Entities.AppUser": {
+        "System.DateTime WebService.Entities.AppUser::get_DateOfBirth()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.String WebService.Entities.AppUser::get_KnownAs()": {
+          "Lines": {
+            "11": 25
+          },
+          "Branches": []
+        },
+        "System.DateTime WebService.Entities.AppUser::get_Created()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime WebService.Entities.AppUser::get_LastActive()": {
+          "Lines": {
+            "13": 47
+          },
+          "Branches": []
+        },
+        "System.String WebService.Entities.AppUser::get_Gender()": {
+          "Lines": {
+            "14": 26
+          },
+          "Branches": []
+        },
+        "System.String WebService.Entities.AppUser::get_Introduction()": {
+          "Lines": {
+            "15": 1
+          },
+          "Branches": []
+        },
+        "System.String WebService.Entities.AppUser::get_LookingFor()": {
+          "Lines": {
+            "16": 1
+          },
+          "Branches": []
+        },
+        "System.String WebService.Entities.AppUser::get_Interests()": {
+          "Lines": {
+            "17": 1
+          },
+          "Branches": []
+        },
+        "System.String WebService.Entities.AppUser::get_City()": {
+          "Lines": {
+            "18": 1
+          },
+          "Branches": []
+        },
+        "System.String WebService.Entities.AppUser::get_Country()": {
+          "Lines": {
+            "19": 1
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.ICollection`1<WebService.Entities.Photo> WebService.Entities.AppUser::get_Photos()": {
+          "Lines": {
+            "20": 64
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.ICollection`1<WebService.Entities.UserLike> WebService.Entities.AppUser::get_LikedByUsers()": {
+          "Lines": {
+            "21": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.ICollection`1<WebService.Entities.UserLike> WebService.Entities.AppUser::get_LikedUsers()": {
+          "Lines": {
+            "22": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.ICollection`1<WebService.Entities.Message> WebService.Entities.AppUser::get_MessagesSent()": {
+          "Lines": {
+            "23": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.ICollection`1<WebService.Entities.Message> WebService.Entities.AppUser::get_MessagesReceived()": {
+          "Lines": {
+            "24": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.ICollection`1<WebService.Entities.AppUserRole> WebService.Entities.AppUser::get_UserRoles()": {
+          "Lines": {
+            "25": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Entities\\AppUserRole.cs": {
+      "WebService.Entities.AppUserRole": {
+        "WebService.Entities.AppUser WebService.Entities.AppUserRole::get_User()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "WebService.Entities.AppRole WebService.Entities.AppUserRole::get_Role()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Entities\\Message.cs": {
+      "WebService.Entities.Message": {
+        "System.Int32 WebService.Entities.Message::get_Id()": {
+          "Lines": {
+            "10": 18
+          },
+          "Branches": []
+        },
+        "System.Int32 WebService.Entities.Message::get_SenderId()": {
+          "Lines": {
+            "11": 18
+          },
+          "Branches": []
+        },
+        "System.String WebService.Entities.Message::get_SenderUsername()": {
+          "Lines": {
+            "12": 21
+          },
+          "Branches": []
+        },
+        "WebService.Entities.AppUser WebService.Entities.Message::get_Sender()": {
+          "Lines": {
+            "13": 26
+          },
+          "Branches": []
+        },
+        "System.Int32 WebService.Entities.Message::get_RecipientId()": {
+          "Lines": {
+            "14": 18
+          },
+          "Branches": []
+        },
+        "System.String WebService.Entities.Message::get_RecipientUsername()": {
+          "Lines": {
+            "15": 21
+          },
+          "Branches": []
+        },
+        "WebService.Entities.AppUser WebService.Entities.Message::get_Recipient()": {
+          "Lines": {
+            "16": 40
+          },
+          "Branches": []
+        },
+        "System.String WebService.Entities.Message::get_Content()": {
+          "Lines": {
+            "17": 21
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.DateTime> WebService.Entities.Message::get_DateRead()": {
+          "Lines": {
+            "18": 33
+          },
+          "Branches": []
+        },
+        "System.DateTime WebService.Entities.Message::get_MessageSent()": {
+          "Lines": {
+            "19": 39
+          },
+          "Branches": []
+        },
+        "System.Boolean WebService.Entities.Message::get_SenderDeleted()": {
+          "Lines": {
+            "20": 3
+          },
+          "Branches": []
+        },
+        "System.Boolean WebService.Entities.Message::get_RecipientDeleted()": {
+          "Lines": {
+            "21": 3
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Entities\\Photo.cs": {
+      "WebService.Entities.Photo": {
+        "System.Int32 WebService.Entities.Photo::get_Id()": {
+          "Lines": {
+            "8": 2
+          },
+          "Branches": []
+        },
+        "System.String WebService.Entities.Photo::get_Url()": {
+          "Lines": {
+            "10": 59
+          },
+          "Branches": []
+        },
+        "System.Boolean WebService.Entities.Photo::get_IsMain()": {
+          "Lines": {
+            "12": 82
+          },
+          "Branches": []
+        },
+        "System.String WebService.Entities.Photo::get_PublicId()": {
+          "Lines": {
+            "14": 1
+          },
+          "Branches": []
+        },
+        "WebService.Entities.AppUser WebService.Entities.Photo::get_AppUser()": {
+          "Lines": {
+            "16": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 WebService.Entities.Photo::get_AppUserId()": {
+          "Lines": {
+            "18": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Entities\\UserLike.cs": {
+      "WebService.Entities.UserLike": {
+        "WebService.Entities.AppUser WebService.Entities.UserLike::get_SourceUser()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 WebService.Entities.UserLike::get_SourceUserId()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        },
+        "WebService.Entities.AppUser WebService.Entities.UserLike::get_LikedUser()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 WebService.Entities.UserLike::get_LikedUserId()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\DTOs\\CreateMessageDto.cs": {
+      "WebService.DTOs.CreateMessageDto": {
+        "System.String WebService.DTOs.CreateMessageDto::get_RecipientUsername()": {
+          "Lines": {
+            "10": 14
+          },
+          "Branches": []
+        },
+        "System.String WebService.DTOs.CreateMessageDto::get_Content()": {
+          "Lines": {
+            "11": 8
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\DTOs\\LikeDto.cs": {
+      "WebService.DTOs.LikeDto": {
+        "System.Int32 WebService.DTOs.LikeDto::get_Id()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.String WebService.DTOs.LikeDto::get_Username()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 WebService.DTOs.LikeDto::get_Age()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.String WebService.DTOs.LikeDto::get_KnownAs()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.String WebService.DTOs.LikeDto::get_PhotoUrl()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.String WebService.DTOs.LikeDto::get_City()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\DTOs\\LoginDto.cs": {
+      "WebService.DTOs.LoginDto": {
+        "System.String WebService.DTOs.LoginDto::get_Username()": {
+          "Lines": {
+            "5": 104
+          },
+          "Branches": []
+        },
+        "System.String WebService.DTOs.LoginDto::get_Password()": {
+          "Lines": {
+            "7": 104
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\DTOs\\MemberDto.cs": {
+      "WebService.DTOs.MemberDto": {
+        "System.Int32 WebService.DTOs.MemberDto::get_Id()": {
+          "Lines": {
+            "10": 12
+          },
+          "Branches": []
+        },
+        "System.String WebService.DTOs.MemberDto::get_UserName()": {
+          "Lines": {
+            "11": 12
+          },
+          "Branches": []
+        },
+        "System.String WebService.DTOs.MemberDto::get_PhotoUrl()": {
+          "Lines": {
+            "12": 12
+          },
+          "Branches": []
+        },
+        "System.Int32 WebService.DTOs.MemberDto::get_Age()": {
+          "Lines": {
+            "13": 12
+          },
+          "Branches": []
+        },
+        "System.String WebService.DTOs.MemberDto::get_KnownAs()": {
+          "Lines": {
+            "14": 12
+          },
+          "Branches": []
+        },
+        "System.DateTime WebService.DTOs.MemberDto::get_Created()": {
+          "Lines": {
+            "15": 12
+          },
+          "Branches": []
+        },
+        "System.DateTime WebService.DTOs.MemberDto::get_LastActive()": {
+          "Lines": {
+            "16": 12
+          },
+          "Branches": []
+        },
+        "System.String WebService.DTOs.MemberDto::get_Gender()": {
+          "Lines": {
+            "17": 12
+          },
+          "Branches": []
+        },
+        "System.String WebService.DTOs.MemberDto::get_Introduction()": {
+          "Lines": {
+            "18": 12
+          },
+          "Branches": []
+        },
+        "System.String WebService.DTOs.MemberDto::get_LookingFor()": {
+          "Lines": {
+            "19": 12
+          },
+          "Branches": []
+        },
+        "System.String WebService.DTOs.MemberDto::get_Interests()": {
+          "Lines": {
+            "20": 12
+          },
+          "Branches": []
+        },
+        "System.String WebService.DTOs.MemberDto::get_City()": {
+          "Lines": {
+            "21": 12
+          },
+          "Branches": []
+        },
+        "System.String WebService.DTOs.MemberDto::get_Country()": {
+          "Lines": {
+            "22": 12
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.ICollection`1<WebService.DTOs.PhotoDto> WebService.DTOs.MemberDto::get_Photos()": {
+          "Lines": {
+            "23": 12
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\DTOs\\MemberUpdateDto.cs": {
+      "WebService.DTOs.MemberUpdateDto": {
+        "System.String WebService.DTOs.MemberUpdateDto::get_Introduction()": {
+          "Lines": {
+            "5": 4
+          },
+          "Branches": []
+        },
+        "System.String WebService.DTOs.MemberUpdateDto::get_LookingFor()": {
+          "Lines": {
+            "6": 4
+          },
+          "Branches": []
+        },
+        "System.String WebService.DTOs.MemberUpdateDto::get_Interests()": {
+          "Lines": {
+            "7": 4
+          },
+          "Branches": []
+        },
+        "System.String WebService.DTOs.MemberUpdateDto::get_City()": {
+          "Lines": {
+            "8": 4
+          },
+          "Branches": []
+        },
+        "System.String WebService.DTOs.MemberUpdateDto::get_Country()": {
+          "Lines": {
+            "9": 4
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\DTOs\\MessageDto.cs": {
+      "WebService.DTOs.MessageDto": {
+        "System.Int32 WebService.DTOs.MessageDto::get_Id()": {
+          "Lines": {
+            "10": 56
+          },
+          "Branches": []
+        },
+        "System.Int32 WebService.DTOs.MessageDto::get_SenderId()": {
+          "Lines": {
+            "11": 56
+          },
+          "Branches": []
+        },
+        "System.String WebService.DTOs.MessageDto::get_SenderUsername()": {
+          "Lines": {
+            "12": 56
+          },
+          "Branches": []
+        },
+        "System.String WebService.DTOs.MessageDto::get_SenderPhotoUrl()": {
+          "Lines": {
+            "13": 56
+          },
+          "Branches": []
+        },
+        "System.Int32 WebService.DTOs.MessageDto::get_RecipientId()": {
+          "Lines": {
+            "14": 56
+          },
+          "Branches": []
+        },
+        "System.String WebService.DTOs.MessageDto::get_RecipientUsername()": {
+          "Lines": {
+            "15": 66
+          },
+          "Branches": []
+        },
+        "System.String WebService.DTOs.MessageDto::get_RecipientPhotoUrl()": {
+          "Lines": {
+            "16": 56
+          },
+          "Branches": []
+        },
+        "System.String WebService.DTOs.MessageDto::get_Content()": {
+          "Lines": {
+            "17": 66
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.DateTime> WebService.DTOs.MessageDto::get_DateRead()": {
+          "Lines": {
+            "18": 56
+          },
+          "Branches": []
+        },
+        "System.DateTime WebService.DTOs.MessageDto::get_MessageSent()": {
+          "Lines": {
+            "19": 56
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\DTOs\\PhotoDto.cs": {
+      "WebService.DTOs.PhotoDto": {
+        "System.Int32 WebService.DTOs.PhotoDto::get_Id()": {
+          "Lines": {
+            "5": 12
+          },
+          "Branches": []
+        },
+        "System.String WebService.DTOs.PhotoDto::get_Url()": {
+          "Lines": {
+            "7": 12
+          },
+          "Branches": []
+        },
+        "System.Boolean WebService.DTOs.PhotoDto::get_IsMain()": {
+          "Lines": {
+            "9": 12
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\DTOs\\RegisterDto.cs": {
+      "WebService.DTOs.RegisterDto": {
+        "System.String WebService.DTOs.RegisterDto::get_Username()": {
+          "Lines": {
+            "8": 10
+          },
+          "Branches": []
+        },
+        "System.String WebService.DTOs.RegisterDto::get_KnownAs()": {
+          "Lines": {
+            "9": 8
+          },
+          "Branches": []
+        },
+        "System.String WebService.DTOs.RegisterDto::get_Gender()": {
+          "Lines": {
+            "10": 8
+          },
+          "Branches": []
+        },
+        "System.DateTime WebService.DTOs.RegisterDto::get_DateOfBirth()": {
+          "Lines": {
+            "11": 8
+          },
+          "Branches": []
+        },
+        "System.String WebService.DTOs.RegisterDto::get_City()": {
+          "Lines": {
+            "12": 8
+          },
+          "Branches": []
+        },
+        "System.String WebService.DTOs.RegisterDto::get_Country()": {
+          "Lines": {
+            "13": 8
+          },
+          "Branches": []
+        },
+        "System.String WebService.DTOs.RegisterDto::get_Password()": {
+          "Lines": {
+            "17": 8
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\DTOs\\UserDto.cs": {
+      "WebService.DTOs.UserDto": {
+        "System.String WebService.DTOs.UserDto::get_Username()": {
+          "Lines": {
+            "5": 50
+          },
+          "Branches": []
+        },
+        "System.String WebService.DTOs.UserDto::get_Token()": {
+          "Lines": {
+            "7": 50
+          },
+          "Branches": []
+        },
+        "System.String WebService.DTOs.UserDto::get_PhotoUrl()": {
+          "Lines": {
+            "9": 50
+          },
+          "Branches": []
+        },
+        "System.String WebService.DTOs.UserDto::get_KnownAs()": {
+          "Lines": {
+            "11": 50
+          },
+          "Branches": []
+        },
+        "System.String WebService.DTOs.UserDto::get_Gender()": {
+          "Lines": {
+            "12": 50
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Data\\DataContext.cs": {
+      "WebService.Data.DataContext": {
+        "Microsoft.EntityFrameworkCore.DbSet`1<WebService.Entities.UserLike> WebService.Data.DataContext::get_Likes()": {
+          "Lines": {
+            "15": 60
+          },
+          "Branches": []
+        },
+        "Microsoft.EntityFrameworkCore.DbSet`1<WebService.Entities.Message> WebService.Data.DataContext::get_Messages()": {
+          "Lines": {
+            "17": 66
+          },
+          "Branches": []
+        },
+        "System.Void WebService.Data.DataContext::OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "19": 1,
+            "22": 1,
+            "24": 1,
+            "25": 1,
+            "26": 1,
+            "27": 1,
+            "28": 1,
+            "30": 1,
+            "31": 1,
+            "32": 1,
+            "33": 1,
+            "34": 1,
+            "37": 1,
+            "38": 1,
+            "40": 1,
+            "41": 1,
+            "42": 1,
+            "43": 1,
+            "44": 1,
+            "46": 1,
+            "47": 1,
+            "48": 1,
+            "49": 1,
+            "50": 1,
+            "52": 1,
+            "53": 1,
+            "54": 1,
+            "55": 1,
+            "57": 1,
+            "58": 1,
+            "59": 1,
+            "60": 1,
+            "62": 1
+          },
+          "Branches": []
+        },
+        "System.Void WebService.Data.DataContext::.ctor(Microsoft.EntityFrameworkCore.DbContextOptions)": {
+          "Lines": {
+            "11": 56,
+            "12": 56,
+            "14": 56
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Data\\LikesRepository.cs": {
+      "WebService.Data.LikesRepository": {
+        "System.Void WebService.Data.LikesRepository::.ctor(WebService.Data.DataContext)": {
+          "Lines": {
+            "17": 6,
+            "18": 6,
+            "19": 6,
+            "20": 6
+          },
+          "Branches": []
+        }
+      },
+      "WebService.Data.LikesRepository/<GetUserLike>d__2": {
+        "System.Void WebService.Data.LikesRepository/<GetUserLike>d__2::MoveNext()": {
+          "Lines": {
+            "23": 3,
+            "24": 3,
+            "25": 3
+          },
+          "Branches": []
+        }
+      },
+      "WebService.Data.LikesRepository/<GetUserLikes>d__3": {
+        "System.Void WebService.Data.LikesRepository/<GetUserLikes>d__3::MoveNext()": {
+          "Lines": {
+            "28": 1,
+            "29": 1,
+            "30": 1,
+            "32": 1,
+            "33": 1,
+            "34": 1,
+            "35": 1,
+            "36": 1,
+            "38": 1,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "44": 1,
+            "45": 1,
+            "46": 1,
+            "47": 1,
+            "48": 1,
+            "49": 1,
+            "50": 1,
+            "51": 1,
+            "52": 1,
+            "54": 1,
+            "55": 1
+          },
+          "Branches": [
+            {
+              "Line": 32,
+              "Offset": 196,
+              "EndOffset": 201,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 32,
+              "Offset": 196,
+              "EndOffset": 412,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 38,
+              "Offset": 443,
+              "EndOffset": 448,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 38,
+              "Offset": 443,
+              "EndOffset": 659,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "WebService.Data.LikesRepository/<GetUserWithLikes>d__4": {
+        "System.Void WebService.Data.LikesRepository/<GetUserWithLikes>d__4::MoveNext()": {
+          "Lines": {
+            "58": 5,
+            "59": 5,
+            "60": 5,
+            "61": 5,
+            "62": 5
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Data\\MessagesRepository.cs": {
+      "WebService.Data.MessagesRepository": {
+        "System.Void WebService.Data.MessagesRepository::AddMessage(WebService.Entities.Message)": {
+          "Lines": {
+            "26": 3,
+            "27": 3,
+            "28": 3
+          },
+          "Branches": []
+        },
+        "System.Void WebService.Data.MessagesRepository::DeleteMessage(WebService.Entities.Message)": {
+          "Lines": {
+            "31": 1,
+            "32": 1,
+            "33": 1
+          },
+          "Branches": []
+        },
+        "System.Void WebService.Data.MessagesRepository::.ctor(WebService.Data.DataContext,AutoMapper.IMapper)": {
+          "Lines": {
+            "20": 11,
+            "21": 11,
+            "22": 11,
+            "23": 11,
+            "24": 11
+          },
+          "Branches": []
+        }
+      },
+      "WebService.Data.MessagesRepository/<GetMessage>d__5": {
+        "System.Void WebService.Data.MessagesRepository/<GetMessage>d__5::MoveNext()": {
+          "Lines": {
+            "36": 3,
+            "37": 3,
+            "38": 3,
+            "39": 3,
+            "40": 3,
+            "41": 3
+          },
+          "Branches": []
+        }
+      },
+      "WebService.Data.MessagesRepository/<GetMessagesForUser>d__6": {
+        "System.Void WebService.Data.MessagesRepository/<GetMessagesForUser>d__6::MoveNext()": {
+          "Lines": {
+            "44": 2,
+            "45": 2,
+            "46": 2,
+            "47": 2,
+            "48": 2,
+            "49": 2,
+            "50": 0,
+            "51": 1,
+            "52": 1,
+            "53": 2,
+            "54": 2,
+            "55": 2,
+            "56": 2
+          },
+          "Branches": [
+            {
+              "Line": 48,
+              "Offset": 181,
+              "EndOffset": 183,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 48,
+              "Offset": 181,
+              "EndOffset": 205,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 48,
+              "Offset": 195,
+              "EndOffset": 417,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            },
+            {
+              "Line": 48,
+              "Offset": 195,
+              "EndOffset": 629,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "WebService.Data.MessagesRepository/<>c__DisplayClass7_0": {
+        "System.Boolean WebService.Data.MessagesRepository/<>c__DisplayClass7_0::<GetMessageThread>b__0(WebService.Entities.Message)": {
+          "Lines": {
+            "69": 16,
+            "70": 16
+          },
+          "Branches": [
+            {
+              "Line": 69,
+              "Offset": 14,
+              "EndOffset": 16,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 15
+            },
+            {
+              "Line": 69,
+              "Offset": 14,
+              "EndOffset": 40,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "WebService.Data.MessagesRepository/<GetMessageThread>d__7": {
+        "System.Void WebService.Data.MessagesRepository/<GetMessageThread>d__7::MoveNext()": {
+          "Lines": {
+            "59": 1,
+            "60": 1,
+            "61": 1,
+            "62": 1,
+            "63": 1,
+            "64": 1,
+            "65": 1,
+            "66": 1,
+            "67": 1,
+            "68": 1,
+            "71": 1,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 1,
+            "80": 1
+          },
+          "Branches": [
+            {
+              "Line": 71,
+              "Offset": 1092,
+              "EndOffset": 1097,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 73,
+              "Offset": 1177,
+              "EndOffset": 1118,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 73,
+              "Offset": 1177,
+              "EndOffset": 1179,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 71,
+              "Offset": 1092,
+              "EndOffset": 1337,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "WebService.Data.MessagesRepository/<SaveAllAsync>d__8": {
+        "System.Void WebService.Data.MessagesRepository/<SaveAllAsync>d__8::MoveNext()": {
+          "Lines": {
+            "83": 5,
+            "84": 5,
+            "85": 5
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Data\\Seed.cs": {
+      "WebService.Data.Seed/<SeedUsers>d__0": {
+        "System.Void WebService.Data.Seed/<SeedUsers>d__0::MoveNext()": {
+          "Lines": {
+            "15": 1,
+            "16": 2,
+            "18": 0,
+            "20": 0,
+            "22": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "48": 0,
+            "49": 0,
+            "50": 1
+          },
+          "Branches": [
+            {
+              "Line": 16,
+              "Offset": 200,
+              "EndOffset": 202,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 16,
+              "Offset": 200,
+              "EndOffset": 207,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 22,
+              "Offset": 375,
+              "EndOffset": 377,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 22,
+              "Offset": 375,
+              "EndOffset": 382,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 645,
+              "EndOffset": 497,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 645,
+              "EndOffset": 650,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 1030,
+              "EndOffset": 733,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 1030,
+              "EndOffset": 1035,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Data\\UserRepository.cs": {
+      "WebService.Data.UserRepository": {
+        "System.Void WebService.Data.UserRepository::Update(WebService.Entities.AppUser)": {
+          "Lines": {
+            "88": 1,
+            "89": 1,
+            "90": 1
+          },
+          "Branches": []
+        },
+        "System.Void WebService.Data.UserRepository::.ctor(WebService.Data.DataContext,AutoMapper.IMapper)": {
+          "Lines": {
+            "19": 47,
+            "20": 47,
+            "21": 47,
+            "22": 47,
+            "23": 47
+          },
+          "Branches": []
+        }
+      },
+      "WebService.Data.UserRepository/<GetMemberAsync>d__3": {
+        "System.Void WebService.Data.UserRepository/<GetMemberAsync>d__3::MoveNext()": {
+          "Lines": {
+            "26": 1,
+            "27": 1,
+            "28": 1,
+            "29": 1,
+            "30": 1,
+            "31": 1
+          },
+          "Branches": []
+        }
+      },
+      "WebService.Data.UserRepository/<GetMembersAsync>d__4": {
+        "System.Void WebService.Data.UserRepository/<GetMembersAsync>d__4::MoveNext()": {
+          "Lines": {
+            "34": 1,
+            "39": 1,
+            "40": 1,
+            "41": 1,
+            "43": 1,
+            "44": 1,
+            "46": 1,
+            "48": 1,
+            "49": 1,
+            "50": 0,
+            "51": 1,
+            "52": 1,
+            "54": 1,
+            "55": 1,
+            "56": 1,
+            "57": 1,
+            "58": 1,
+            "59": 1,
+            "60": 1
+          },
+          "Branches": [
+            {
+              "Line": 48,
+              "Offset": 689,
+              "EndOffset": 693,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 48,
+              "Offset": 689,
+              "EndOffset": 765,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "WebService.Data.UserRepository/<GetUserByIdAsync>d__5": {
+        "System.Void WebService.Data.UserRepository/<GetUserByIdAsync>d__5::MoveNext()": {
+          "Lines": {
+            "63": 47,
+            "64": 47,
+            "65": 47,
+            "66": 47
+          },
+          "Branches": []
+        }
+      },
+      "WebService.Data.UserRepository/<GetUserByUsernameAsync>d__6": {
+        "System.Void WebService.Data.UserRepository/<GetUserByUsernameAsync>d__6::MoveNext()": {
+          "Lines": {
+            "69": 17,
+            "70": 17,
+            "71": 17,
+            "72": 17,
+            "73": 17
+          },
+          "Branches": []
+        }
+      },
+      "WebService.Data.UserRepository/<GetUsersAsync>d__7": {
+        "System.Void WebService.Data.UserRepository/<GetUsersAsync>d__7::MoveNext()": {
+          "Lines": {
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0
+          },
+          "Branches": []
+        }
+      },
+      "WebService.Data.UserRepository/<SaveAllAsync>d__8": {
+        "System.Void WebService.Data.UserRepository/<SaveAllAsync>d__8::MoveNext()": {
+          "Lines": {
+            "83": 49,
+            "84": 49,
+            "85": 49
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Data\\Migrations\\20210914130710_InitialCreate.cs": {
+      "WebService.Data.Migrations.InitialCreate": {
+        "System.Void WebService.Data.Migrations.InitialCreate::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "8": 0,
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0
+          },
+          "Branches": []
+        },
+        "System.Void WebService.Data.Migrations.InitialCreate::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Data\\Migrations\\20210914130710_InitialCreate.Designer.cs": {
+      "WebService.Data.Migrations.InitialCreate": {
+        "System.Void WebService.Data.Migrations.InitialCreate::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "15": 0,
+            "17": 0,
+            "18": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "34": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Data\\Migrations\\20211003040040_UserPasswordAdded.cs": {
+      "WebService.Data.Migrations.UserPasswordAdded": {
+        "System.Void WebService.Data.Migrations.UserPasswordAdded::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "8": 0,
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0
+          },
+          "Branches": []
+        },
+        "System.Void WebService.Data.Migrations.UserPasswordAdded::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Data\\Migrations\\20211003040040_UserPasswordAdded.Designer.cs": {
+      "WebService.Data.Migrations.UserPasswordAdded": {
+        "System.Void WebService.Data.Migrations.UserPasswordAdded::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "16": 0,
+            "18": 0,
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "41": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Data\\Migrations\\20211014130304_ExtendedUserEntity.cs": {
+      "WebService.Data.Migrations.ExtendedUserEntity": {
+        "System.Void WebService.Data.Migrations.ExtendedUserEntity::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0
+          },
+          "Branches": []
+        },
+        "System.Void WebService.Data.Migrations.ExtendedUserEntity::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "110": 0,
+            "111": 0,
+            "112": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "118": 0,
+            "119": 0,
+            "120": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "126": 0,
+            "127": 0,
+            "128": 0,
+            "130": 0,
+            "131": 0,
+            "132": 0,
+            "134": 0,
+            "135": 0,
+            "136": 0,
+            "138": 0,
+            "139": 0,
+            "140": 0,
+            "142": 0,
+            "143": 0,
+            "144": 0,
+            "145": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Data\\Migrations\\20211014130304_ExtendedUserEntity.Designer.cs": {
+      "WebService.Data.Migrations.ExtendedUserEntity": {
+        "System.Void WebService.Data.Migrations.ExtendedUserEntity::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "16": 0,
+            "18": 0,
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "112": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Data\\Migrations\\20211018140740_FixedFieldName.cs": {
+      "WebService.Data.Migrations.FixedFieldName": {
+        "System.Void WebService.Data.Migrations.FixedFieldName::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "8": 0,
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.Void WebService.Data.Migrations.FixedFieldName::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Data\\Migrations\\20211018140740_FixedFieldName.Designer.cs": {
+      "WebService.Data.Migrations.FixedFieldName": {
+        "System.Void WebService.Data.Migrations.FixedFieldName::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "16": 0,
+            "18": 0,
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "112": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Data\\Migrations\\20211123051009_LikeEntityAdded.cs": {
+      "WebService.Data.Migrations.LikeEntityAdded": {
+        "System.Void WebService.Data.Migrations.LikeEntityAdded::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "8": 0,
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0
+          },
+          "Branches": []
+        },
+        "System.Void WebService.Data.Migrations.LikeEntityAdded::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Data\\Migrations\\20211123051009_LikeEntityAdded.Designer.cs": {
+      "WebService.Data.Migrations.LikeEntityAdded": {
+        "System.Void WebService.Data.Migrations.LikeEntityAdded::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "16": 0,
+            "18": 0,
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "117": 0,
+            "118": 0,
+            "119": 0,
+            "120": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0,
+            "126": 0,
+            "127": 0,
+            "128": 0,
+            "129": 0,
+            "130": 0,
+            "131": 0,
+            "132": 0,
+            "133": 0,
+            "134": 0,
+            "135": 0,
+            "136": 0,
+            "137": 0,
+            "138": 0,
+            "139": 0,
+            "141": 0,
+            "142": 0,
+            "143": 0,
+            "144": 0,
+            "145": 0,
+            "146": 0,
+            "147": 0,
+            "148": 0,
+            "150": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Data\\Migrations\\20211123210344_MessageEntityAdded.cs": {
+      "WebService.Data.Migrations.MessageEntityAdded": {
+        "System.Void WebService.Data.Migrations.MessageEntityAdded::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0
+          },
+          "Branches": []
+        },
+        "System.Void WebService.Data.Migrations.MessageEntityAdded::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Data\\Migrations\\20211123210344_MessageEntityAdded.Designer.cs": {
+      "WebService.Data.Migrations.MessageEntityAdded": {
+        "System.Void WebService.Data.Migrations.MessageEntityAdded::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "16": 0,
+            "18": 0,
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "111": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "117": 0,
+            "118": 0,
+            "119": 0,
+            "120": 0,
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0,
+            "126": 0,
+            "127": 0,
+            "128": 0,
+            "129": 0,
+            "130": 0,
+            "131": 0,
+            "132": 0,
+            "133": 0,
+            "134": 0,
+            "135": 0,
+            "136": 0,
+            "138": 0,
+            "139": 0,
+            "140": 0,
+            "141": 0,
+            "142": 0,
+            "143": 0,
+            "144": 0,
+            "145": 0,
+            "146": 0,
+            "147": 0,
+            "148": 0,
+            "149": 0,
+            "150": 0,
+            "151": 0,
+            "153": 0,
+            "154": 0,
+            "155": 0,
+            "156": 0,
+            "157": 0,
+            "158": 0,
+            "159": 0,
+            "160": 0,
+            "161": 0,
+            "162": 0,
+            "163": 0,
+            "164": 0,
+            "165": 0,
+            "166": 0,
+            "167": 0,
+            "168": 0,
+            "169": 0,
+            "170": 0,
+            "172": 0,
+            "173": 0,
+            "174": 0,
+            "175": 0,
+            "176": 0,
+            "177": 0,
+            "178": 0,
+            "179": 0,
+            "180": 0,
+            "181": 0,
+            "183": 0,
+            "184": 0,
+            "185": 0,
+            "186": 0,
+            "187": 0,
+            "188": 0,
+            "189": 0,
+            "190": 0,
+            "191": 0,
+            "192": 0,
+            "193": 0,
+            "194": 0,
+            "195": 0,
+            "196": 0,
+            "197": 0,
+            "198": 0,
+            "199": 0,
+            "200": 0,
+            "202": 0,
+            "203": 0,
+            "204": 0,
+            "205": 0,
+            "206": 0,
+            "207": 0,
+            "208": 0,
+            "209": 0,
+            "210": 0,
+            "211": 0,
+            "212": 0,
+            "213": 0,
+            "215": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Data\\Migrations\\20211124044343_IdentityAdded.cs": {
+      "WebService.Data.Migrations.IdentityAdded": {
+        "System.Void WebService.Data.Migrations.IdentityAdded::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "109": 0,
+            "110": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "116": 0,
+            "117": 0,
+            "118": 0,
+            "119": 0,
+            "120": 0,
+            "121": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0,
+            "126": 0,
+            "127": 0,
+            "129": 0,
+            "130": 0,
+            "131": 0,
+            "132": 0,
+            "133": 0,
+            "134": 0,
+            "136": 0,
+            "137": 0,
+            "138": 0,
+            "139": 0,
+            "140": 0,
+            "142": 0,
+            "143": 0,
+            "144": 0,
+            "145": 0,
+            "146": 0,
+            "147": 0,
+            "149": 0,
+            "150": 0,
+            "151": 0,
+            "152": 0,
+            "154": 0,
+            "155": 0,
+            "156": 0,
+            "157": 0,
+            "159": 0,
+            "160": 0,
+            "161": 0,
+            "162": 0,
+            "163": 0,
+            "164": 0,
+            "165": 0,
+            "166": 0,
+            "167": 0,
+            "168": 0,
+            "169": 0,
+            "170": 0,
+            "171": 0,
+            "172": 0,
+            "174": 0,
+            "175": 0,
+            "176": 0,
+            "177": 0,
+            "178": 0,
+            "179": 0,
+            "180": 0,
+            "181": 0,
+            "182": 0,
+            "183": 0,
+            "184": 0,
+            "185": 0,
+            "186": 0,
+            "187": 0,
+            "188": 0,
+            "189": 0,
+            "190": 0,
+            "191": 0,
+            "192": 0,
+            "193": 0,
+            "195": 0,
+            "196": 0,
+            "197": 0,
+            "198": 0,
+            "199": 0,
+            "200": 0,
+            "201": 0,
+            "202": 0,
+            "203": 0,
+            "204": 0,
+            "205": 0,
+            "206": 0,
+            "207": 0,
+            "208": 0,
+            "209": 0,
+            "210": 0,
+            "211": 0,
+            "212": 0,
+            "213": 0,
+            "215": 0,
+            "216": 0,
+            "217": 0,
+            "218": 0,
+            "219": 0,
+            "220": 0,
+            "221": 0,
+            "222": 0,
+            "223": 0,
+            "224": 0,
+            "225": 0,
+            "226": 0,
+            "227": 0,
+            "228": 0,
+            "229": 0,
+            "230": 0,
+            "231": 0,
+            "232": 0,
+            "233": 0,
+            "235": 0,
+            "236": 0,
+            "237": 0,
+            "238": 0,
+            "239": 0,
+            "240": 0,
+            "241": 0,
+            "242": 0,
+            "243": 0,
+            "244": 0,
+            "245": 0,
+            "246": 0,
+            "247": 0,
+            "248": 0,
+            "249": 0,
+            "250": 0,
+            "251": 0,
+            "252": 0,
+            "253": 0,
+            "254": 0,
+            "256": 0,
+            "257": 0,
+            "258": 0,
+            "259": 0,
+            "260": 0,
+            "261": 0,
+            "262": 0,
+            "263": 0,
+            "264": 0,
+            "265": 0,
+            "266": 0,
+            "267": 0,
+            "268": 0,
+            "269": 0,
+            "270": 0,
+            "271": 0,
+            "272": 0,
+            "273": 0,
+            "274": 0,
+            "275": 0,
+            "276": 0,
+            "277": 0,
+            "278": 0,
+            "280": 0,
+            "281": 0,
+            "282": 0,
+            "283": 0,
+            "285": 0,
+            "286": 0,
+            "287": 0,
+            "288": 0,
+            "289": 0,
+            "291": 0,
+            "292": 0,
+            "293": 0,
+            "294": 0,
+            "296": 0,
+            "297": 0,
+            "298": 0,
+            "299": 0,
+            "300": 0,
+            "302": 0,
+            "303": 0,
+            "304": 0,
+            "305": 0,
+            "307": 0,
+            "308": 0,
+            "309": 0,
+            "310": 0,
+            "312": 0,
+            "313": 0,
+            "314": 0,
+            "315": 0,
+            "317": 0,
+            "318": 0,
+            "319": 0,
+            "320": 0,
+            "321": 0,
+            "322": 0,
+            "323": 0,
+            "325": 0,
+            "326": 0,
+            "327": 0,
+            "328": 0,
+            "329": 0,
+            "330": 0,
+            "331": 0,
+            "333": 0,
+            "334": 0,
+            "335": 0,
+            "336": 0,
+            "337": 0,
+            "338": 0,
+            "339": 0,
+            "341": 0,
+            "342": 0,
+            "343": 0,
+            "344": 0,
+            "345": 0,
+            "346": 0,
+            "347": 0,
+            "349": 0,
+            "350": 0,
+            "351": 0,
+            "352": 0,
+            "353": 0,
+            "354": 0,
+            "355": 0,
+            "356": 0
+          },
+          "Branches": []
+        },
+        "System.Void WebService.Data.Migrations.IdentityAdded::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "359": 0,
+            "360": 0,
+            "361": 0,
+            "362": 0,
+            "364": 0,
+            "365": 0,
+            "366": 0,
+            "368": 0,
+            "369": 0,
+            "370": 0,
+            "372": 0,
+            "373": 0,
+            "374": 0,
+            "376": 0,
+            "377": 0,
+            "378": 0,
+            "380": 0,
+            "381": 0,
+            "383": 0,
+            "384": 0,
+            "386": 0,
+            "387": 0,
+            "389": 0,
+            "390": 0,
+            "392": 0,
+            "393": 0,
+            "395": 0,
+            "396": 0,
+            "398": 0,
+            "399": 0,
+            "400": 0,
+            "402": 0,
+            "403": 0,
+            "404": 0,
+            "406": 0,
+            "407": 0,
+            "408": 0,
+            "410": 0,
+            "411": 0,
+            "412": 0,
+            "414": 0,
+            "415": 0,
+            "416": 0,
+            "418": 0,
+            "419": 0,
+            "420": 0,
+            "422": 0,
+            "423": 0,
+            "424": 0,
+            "426": 0,
+            "427": 0,
+            "428": 0,
+            "430": 0,
+            "431": 0,
+            "432": 0,
+            "434": 0,
+            "435": 0,
+            "436": 0,
+            "438": 0,
+            "439": 0,
+            "440": 0,
+            "442": 0,
+            "443": 0,
+            "444": 0,
+            "446": 0,
+            "447": 0,
+            "448": 0,
+            "450": 0,
+            "451": 0,
+            "452": 0,
+            "454": 0,
+            "455": 0,
+            "456": 0,
+            "458": 0,
+            "459": 0,
+            "460": 0,
+            "462": 0,
+            "463": 0,
+            "464": 0,
+            "466": 0,
+            "467": 0,
+            "468": 0,
+            "470": 0,
+            "471": 0,
+            "472": 0,
+            "473": 0,
+            "475": 0,
+            "476": 0,
+            "477": 0,
+            "478": 0,
+            "480": 0,
+            "481": 0,
+            "482": 0,
+            "483": 0,
+            "484": 0,
+            "485": 0,
+            "486": 0,
+            "487": 0,
+            "489": 0,
+            "490": 0,
+            "491": 0,
+            "492": 0,
+            "493": 0,
+            "495": 0,
+            "496": 0,
+            "497": 0,
+            "498": 0,
+            "500": 0,
+            "501": 0,
+            "502": 0,
+            "503": 0,
+            "505": 0,
+            "506": 0,
+            "507": 0,
+            "508": 0,
+            "509": 0,
+            "510": 0,
+            "511": 0,
+            "513": 0,
+            "514": 0,
+            "515": 0,
+            "516": 0,
+            "517": 0,
+            "518": 0,
+            "519": 0,
+            "521": 0,
+            "522": 0,
+            "523": 0,
+            "524": 0,
+            "525": 0,
+            "526": 0,
+            "527": 0,
+            "529": 0,
+            "530": 0,
+            "531": 0,
+            "532": 0,
+            "533": 0,
+            "534": 0,
+            "535": 0,
+            "537": 0,
+            "538": 0,
+            "539": 0,
+            "540": 0,
+            "541": 0,
+            "542": 0,
+            "543": 0,
+            "544": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Data\\Migrations\\20211124044343_IdentityAdded.Designer.cs": {
+      "WebService.Data.Migrations.IdentityAdded": {
+        "System.Void WebService.Data.Migrations.IdentityAdded::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "16": 0,
+            "18": 0,
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "117": 0,
+            "118": 0,
+            "119": 0,
+            "120": 0,
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0,
+            "126": 0,
+            "127": 0,
+            "128": 0,
+            "129": 0,
+            "130": 0,
+            "132": 0,
+            "133": 0,
+            "134": 0,
+            "135": 0,
+            "136": 0,
+            "137": 0,
+            "138": 0,
+            "139": 0,
+            "140": 0,
+            "141": 0,
+            "142": 0,
+            "143": 0,
+            "144": 0,
+            "145": 0,
+            "146": 0,
+            "147": 0,
+            "148": 0,
+            "149": 0,
+            "150": 0,
+            "151": 0,
+            "152": 0,
+            "153": 0,
+            "154": 0,
+            "155": 0,
+            "156": 0,
+            "157": 0,
+            "158": 0,
+            "159": 0,
+            "160": 0,
+            "161": 0,
+            "162": 0,
+            "163": 0,
+            "164": 0,
+            "165": 0,
+            "166": 0,
+            "167": 0,
+            "168": 0,
+            "169": 0,
+            "170": 0,
+            "171": 0,
+            "172": 0,
+            "173": 0,
+            "174": 0,
+            "175": 0,
+            "176": 0,
+            "177": 0,
+            "178": 0,
+            "179": 0,
+            "180": 0,
+            "181": 0,
+            "182": 0,
+            "183": 0,
+            "184": 0,
+            "185": 0,
+            "186": 0,
+            "187": 0,
+            "188": 0,
+            "189": 0,
+            "190": 0,
+            "191": 0,
+            "192": 0,
+            "193": 0,
+            "194": 0,
+            "195": 0,
+            "196": 0,
+            "197": 0,
+            "198": 0,
+            "199": 0,
+            "200": 0,
+            "201": 0,
+            "202": 0,
+            "203": 0,
+            "204": 0,
+            "205": 0,
+            "206": 0,
+            "207": 0,
+            "208": 0,
+            "209": 0,
+            "210": 0,
+            "211": 0,
+            "212": 0,
+            "213": 0,
+            "214": 0,
+            "215": 0,
+            "216": 0,
+            "217": 0,
+            "218": 0,
+            "219": 0,
+            "220": 0,
+            "221": 0,
+            "222": 0,
+            "223": 0,
+            "224": 0,
+            "225": 0,
+            "227": 0,
+            "228": 0,
+            "229": 0,
+            "230": 0,
+            "231": 0,
+            "232": 0,
+            "233": 0,
+            "234": 0,
+            "235": 0,
+            "236": 0,
+            "237": 0,
+            "238": 0,
+            "239": 0,
+            "240": 0,
+            "242": 0,
+            "243": 0,
+            "244": 0,
+            "245": 0,
+            "246": 0,
+            "247": 0,
+            "248": 0,
+            "249": 0,
+            "250": 0,
+            "251": 0,
+            "252": 0,
+            "253": 0,
+            "254": 0,
+            "255": 0,
+            "256": 0,
+            "257": 0,
+            "258": 0,
+            "259": 0,
+            "260": 0,
+            "261": 0,
+            "262": 0,
+            "263": 0,
+            "264": 0,
+            "265": 0,
+            "266": 0,
+            "267": 0,
+            "268": 0,
+            "269": 0,
+            "270": 0,
+            "271": 0,
+            "272": 0,
+            "273": 0,
+            "274": 0,
+            "275": 0,
+            "276": 0,
+            "277": 0,
+            "278": 0,
+            "279": 0,
+            "280": 0,
+            "281": 0,
+            "282": 0,
+            "284": 0,
+            "285": 0,
+            "286": 0,
+            "287": 0,
+            "288": 0,
+            "289": 0,
+            "290": 0,
+            "291": 0,
+            "292": 0,
+            "293": 0,
+            "294": 0,
+            "295": 0,
+            "296": 0,
+            "297": 0,
+            "298": 0,
+            "299": 0,
+            "300": 0,
+            "301": 0,
+            "302": 0,
+            "303": 0,
+            "304": 0,
+            "305": 0,
+            "306": 0,
+            "307": 0,
+            "309": 0,
+            "310": 0,
+            "311": 0,
+            "312": 0,
+            "313": 0,
+            "314": 0,
+            "315": 0,
+            "316": 0,
+            "317": 0,
+            "318": 0,
+            "319": 0,
+            "320": 0,
+            "321": 0,
+            "322": 0,
+            "324": 0,
+            "325": 0,
+            "326": 0,
+            "327": 0,
+            "328": 0,
+            "329": 0,
+            "330": 0,
+            "331": 0,
+            "333": 0,
+            "334": 0,
+            "335": 0,
+            "336": 0,
+            "337": 0,
+            "338": 0,
+            "339": 0,
+            "340": 0,
+            "342": 0,
+            "343": 0,
+            "344": 0,
+            "345": 0,
+            "346": 0,
+            "347": 0,
+            "348": 0,
+            "349": 0,
+            "351": 0,
+            "352": 0,
+            "353": 0,
+            "354": 0,
+            "355": 0,
+            "356": 0,
+            "357": 0,
+            "358": 0,
+            "360": 0,
+            "361": 0,
+            "362": 0,
+            "363": 0,
+            "364": 0,
+            "365": 0,
+            "366": 0,
+            "367": 0,
+            "368": 0,
+            "369": 0,
+            "370": 0,
+            "371": 0,
+            "372": 0,
+            "373": 0,
+            "374": 0,
+            "375": 0,
+            "376": 0,
+            "377": 0,
+            "379": 0,
+            "380": 0,
+            "381": 0,
+            "382": 0,
+            "383": 0,
+            "384": 0,
+            "385": 0,
+            "386": 0,
+            "387": 0,
+            "388": 0,
+            "389": 0,
+            "390": 0,
+            "391": 0,
+            "392": 0,
+            "393": 0,
+            "394": 0,
+            "395": 0,
+            "396": 0,
+            "398": 0,
+            "399": 0,
+            "400": 0,
+            "401": 0,
+            "402": 0,
+            "403": 0,
+            "404": 0,
+            "405": 0,
+            "406": 0,
+            "407": 0,
+            "409": 0,
+            "410": 0,
+            "411": 0,
+            "412": 0,
+            "413": 0,
+            "414": 0,
+            "415": 0,
+            "416": 0,
+            "417": 0,
+            "418": 0,
+            "419": 0,
+            "420": 0,
+            "421": 0,
+            "422": 0,
+            "423": 0,
+            "424": 0,
+            "425": 0,
+            "426": 0,
+            "428": 0,
+            "429": 0,
+            "430": 0,
+            "431": 0,
+            "433": 0,
+            "434": 0,
+            "435": 0,
+            "436": 0,
+            "437": 0,
+            "438": 0,
+            "439": 0,
+            "440": 0,
+            "441": 0,
+            "442": 0,
+            "443": 0,
+            "444": 0,
+            "445": 0,
+            "446": 0,
+            "448": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Data\\Migrations\\DataContextModelSnapshot.cs": {
+      "WebService.Data.Migrations.DataContextModelSnapshot": {
+        "System.Void WebService.Data.Migrations.DataContextModelSnapshot::BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "14": 0,
+            "16": 0,
+            "17": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "117": 0,
+            "118": 0,
+            "119": 0,
+            "120": 0,
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0,
+            "126": 0,
+            "127": 0,
+            "128": 0,
+            "130": 0,
+            "131": 0,
+            "132": 0,
+            "133": 0,
+            "134": 0,
+            "135": 0,
+            "136": 0,
+            "137": 0,
+            "138": 0,
+            "139": 0,
+            "140": 0,
+            "141": 0,
+            "142": 0,
+            "143": 0,
+            "144": 0,
+            "145": 0,
+            "146": 0,
+            "147": 0,
+            "148": 0,
+            "149": 0,
+            "150": 0,
+            "151": 0,
+            "152": 0,
+            "153": 0,
+            "154": 0,
+            "155": 0,
+            "156": 0,
+            "157": 0,
+            "158": 0,
+            "159": 0,
+            "160": 0,
+            "161": 0,
+            "162": 0,
+            "163": 0,
+            "164": 0,
+            "165": 0,
+            "166": 0,
+            "167": 0,
+            "168": 0,
+            "169": 0,
+            "170": 0,
+            "171": 0,
+            "172": 0,
+            "173": 0,
+            "174": 0,
+            "175": 0,
+            "176": 0,
+            "177": 0,
+            "178": 0,
+            "179": 0,
+            "180": 0,
+            "181": 0,
+            "182": 0,
+            "183": 0,
+            "184": 0,
+            "185": 0,
+            "186": 0,
+            "187": 0,
+            "188": 0,
+            "189": 0,
+            "190": 0,
+            "191": 0,
+            "192": 0,
+            "193": 0,
+            "194": 0,
+            "195": 0,
+            "196": 0,
+            "197": 0,
+            "198": 0,
+            "199": 0,
+            "200": 0,
+            "201": 0,
+            "202": 0,
+            "203": 0,
+            "204": 0,
+            "205": 0,
+            "206": 0,
+            "207": 0,
+            "208": 0,
+            "209": 0,
+            "210": 0,
+            "211": 0,
+            "212": 0,
+            "213": 0,
+            "214": 0,
+            "215": 0,
+            "216": 0,
+            "217": 0,
+            "218": 0,
+            "219": 0,
+            "220": 0,
+            "221": 0,
+            "222": 0,
+            "223": 0,
+            "225": 0,
+            "226": 0,
+            "227": 0,
+            "228": 0,
+            "229": 0,
+            "230": 0,
+            "231": 0,
+            "232": 0,
+            "233": 0,
+            "234": 0,
+            "235": 0,
+            "236": 0,
+            "237": 0,
+            "238": 0,
+            "240": 0,
+            "241": 0,
+            "242": 0,
+            "243": 0,
+            "244": 0,
+            "245": 0,
+            "246": 0,
+            "247": 0,
+            "248": 0,
+            "249": 0,
+            "250": 0,
+            "251": 0,
+            "252": 0,
+            "253": 0,
+            "254": 0,
+            "255": 0,
+            "256": 0,
+            "257": 0,
+            "258": 0,
+            "259": 0,
+            "260": 0,
+            "261": 0,
+            "262": 0,
+            "263": 0,
+            "264": 0,
+            "265": 0,
+            "266": 0,
+            "267": 0,
+            "268": 0,
+            "269": 0,
+            "270": 0,
+            "271": 0,
+            "272": 0,
+            "273": 0,
+            "274": 0,
+            "275": 0,
+            "276": 0,
+            "277": 0,
+            "278": 0,
+            "279": 0,
+            "280": 0,
+            "282": 0,
+            "283": 0,
+            "284": 0,
+            "285": 0,
+            "286": 0,
+            "287": 0,
+            "288": 0,
+            "289": 0,
+            "290": 0,
+            "291": 0,
+            "292": 0,
+            "293": 0,
+            "294": 0,
+            "295": 0,
+            "296": 0,
+            "297": 0,
+            "298": 0,
+            "299": 0,
+            "300": 0,
+            "301": 0,
+            "302": 0,
+            "303": 0,
+            "304": 0,
+            "305": 0,
+            "307": 0,
+            "308": 0,
+            "309": 0,
+            "310": 0,
+            "311": 0,
+            "312": 0,
+            "313": 0,
+            "314": 0,
+            "315": 0,
+            "316": 0,
+            "317": 0,
+            "318": 0,
+            "319": 0,
+            "320": 0,
+            "322": 0,
+            "323": 0,
+            "324": 0,
+            "325": 0,
+            "326": 0,
+            "327": 0,
+            "328": 0,
+            "329": 0,
+            "331": 0,
+            "332": 0,
+            "333": 0,
+            "334": 0,
+            "335": 0,
+            "336": 0,
+            "337": 0,
+            "338": 0,
+            "340": 0,
+            "341": 0,
+            "342": 0,
+            "343": 0,
+            "344": 0,
+            "345": 0,
+            "346": 0,
+            "347": 0,
+            "349": 0,
+            "350": 0,
+            "351": 0,
+            "352": 0,
+            "353": 0,
+            "354": 0,
+            "355": 0,
+            "356": 0,
+            "358": 0,
+            "359": 0,
+            "360": 0,
+            "361": 0,
+            "362": 0,
+            "363": 0,
+            "364": 0,
+            "365": 0,
+            "366": 0,
+            "367": 0,
+            "368": 0,
+            "369": 0,
+            "370": 0,
+            "371": 0,
+            "372": 0,
+            "373": 0,
+            "374": 0,
+            "375": 0,
+            "377": 0,
+            "378": 0,
+            "379": 0,
+            "380": 0,
+            "381": 0,
+            "382": 0,
+            "383": 0,
+            "384": 0,
+            "385": 0,
+            "386": 0,
+            "387": 0,
+            "388": 0,
+            "389": 0,
+            "390": 0,
+            "391": 0,
+            "392": 0,
+            "393": 0,
+            "394": 0,
+            "396": 0,
+            "397": 0,
+            "398": 0,
+            "399": 0,
+            "400": 0,
+            "401": 0,
+            "402": 0,
+            "403": 0,
+            "404": 0,
+            "405": 0,
+            "407": 0,
+            "408": 0,
+            "409": 0,
+            "410": 0,
+            "411": 0,
+            "412": 0,
+            "413": 0,
+            "414": 0,
+            "415": 0,
+            "416": 0,
+            "417": 0,
+            "418": 0,
+            "419": 0,
+            "420": 0,
+            "421": 0,
+            "422": 0,
+            "423": 0,
+            "424": 0,
+            "426": 0,
+            "427": 0,
+            "428": 0,
+            "429": 0,
+            "431": 0,
+            "432": 0,
+            "433": 0,
+            "434": 0,
+            "435": 0,
+            "436": 0,
+            "437": 0,
+            "438": 0,
+            "439": 0,
+            "440": 0,
+            "441": 0,
+            "442": 0,
+            "443": 0,
+            "444": 0,
+            "446": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Controllers\\AccountController.cs": {
+      "WebService.Controllers.AccountController": {
+        "System.Void WebService.Controllers.AccountController::.ctor(Microsoft.AspNetCore.Identity.UserManager`1<WebService.Entities.AppUser>,Microsoft.AspNetCore.Identity.SignInManager`1<WebService.Entities.AppUser>,WebService.Interfaces.ITokenService,AutoMapper.IMapper)": {
+          "Lines": {
+            "20": 28,
+            "21": 28,
+            "22": 28,
+            "23": 28,
+            "24": 28,
+            "25": 28,
+            "26": 28,
+            "27": 28,
+            "28": 28,
+            "29": 28,
+            "30": 28
+          },
+          "Branches": []
+        }
+      },
+      "WebService.Controllers.AccountController/<Register>d__5": {
+        "System.Void WebService.Controllers.AccountController/<Register>d__5::MoveNext()": {
+          "Lines": {
+            "34": 2,
+            "36": 4,
+            "38": 0,
+            "40": 0,
+            "42": 0,
+            "44": 0,
+            "46": 0,
+            "48": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 2
+          },
+          "Branches": [
+            {
+              "Line": 36,
+              "Offset": 175,
+              "EndOffset": 177,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 36,
+              "Offset": 175,
+              "EndOffset": 204,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 429,
+              "EndOffset": 431,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 429,
+              "EndOffset": 464,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 48,
+              "Offset": 627,
+              "EndOffset": 629,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 48,
+              "Offset": 652,
+              "EndOffset": 654,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 48,
+              "Offset": 652,
+              "EndOffset": 658,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 48,
+              "Offset": 627,
+              "EndOffset": 684,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "WebService.Controllers.AccountController/<>c": {
+        "System.Boolean WebService.Controllers.AccountController/<>c::<Login>b__6_2(WebService.Entities.Photo)": {
+          "Lines": {
+            "76": 27
+          },
+          "Branches": []
+        }
+      },
+      "WebService.Controllers.AccountController/<Login>d__6": {
+        "System.Void WebService.Controllers.AccountController/<Login>d__6::MoveNext()": {
+          "Lines": {
+            "61": 26,
+            "62": 26,
+            "63": 26,
+            "64": 26,
+            "66": 26,
+            "68": 26,
+            "70": 27,
+            "72": 25,
+            "73": 25,
+            "74": 25,
+            "75": 25,
+            "77": 25,
+            "78": 25,
+            "79": 25,
+            "80": 26
+          },
+          "Branches": [
+            {
+              "Line": 66,
+              "Offset": 440,
+              "EndOffset": 442,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 66,
+              "Offset": 440,
+              "EndOffset": 469,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 26
+            },
+            {
+              "Line": 70,
+              "Offset": 644,
+              "EndOffset": 646,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 70,
+              "Offset": 644,
+              "EndOffset": 668,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 25
+            },
+            {
+              "Line": 72,
+              "Offset": 907,
+              "EndOffset": 909,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 4
+            },
+            {
+              "Line": 72,
+              "Offset": 907,
+              "EndOffset": 913,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 21
+            }
+          ]
+        }
+      },
+      "WebService.Controllers.AccountController/<UserExists>d__7": {
+        "System.Void WebService.Controllers.AccountController/<UserExists>d__7::MoveNext()": {
+          "Lines": {
+            "85": 2,
+            "86": 2,
+            "87": 2
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Controllers\\AdminController.cs": {
+      "WebService.Controllers.AdminController": {
+        "System.Void WebService.Controllers.AdminController::.ctor(Microsoft.AspNetCore.Identity.UserManager`1<WebService.Entities.AppUser>)": {
+          "Lines": {
+            "17": 2,
+            "18": 2,
+            "19": 2,
+            "20": 2
+          },
+          "Branches": []
+        }
+      },
+      "WebService.Controllers.AdminController/<GetUsersWithRoles>d__2": {
+        "System.Void WebService.Controllers.AdminController/<GetUsersWithRoles>d__2::MoveNext()": {
+          "Lines": {
+            "25": 1,
+            "26": 1,
+            "27": 1,
+            "28": 1,
+            "29": 1,
+            "30": 1,
+            "31": 1,
+            "32": 1,
+            "33": 1,
+            "34": 1,
+            "35": 1,
+            "36": 1,
+            "37": 1,
+            "38": 1
+          },
+          "Branches": []
+        }
+      },
+      "WebService.Controllers.AdminController/<EditRoles>d__3": {
+        "System.Void WebService.Controllers.AdminController/<EditRoles>d__3::MoveNext()": {
+          "Lines": {
+            "42": 0,
+            "43": 0,
+            "45": 0,
+            "47": 0,
+            "49": 0,
+            "50": 0,
+            "52": 0,
+            "54": 0,
+            "56": 0,
+            "58": 0,
+            "59": 0
+          },
+          "Branches": [
+            {
+              "Line": 47,
+              "Offset": 235,
+              "EndOffset": 237,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 47,
+              "Offset": 235,
+              "EndOffset": 259,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 52,
+              "Offset": 572,
+              "EndOffset": 574,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 52,
+              "Offset": 572,
+              "EndOffset": 596,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 56,
+              "Offset": 770,
+              "EndOffset": 772,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 56,
+              "Offset": 770,
+              "EndOffset": 794,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "WebService.Controllers.AdminController/<GetPhotosForModeration>d__4": {
+        "System.Void WebService.Controllers.AdminController/<GetPhotosForModeration>d__4::MoveNext()": {
+          "Lines": {
+            "64": 1,
+            "65": 1,
+            "66": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Controllers\\BuggyController.cs": {
+      "WebService.Controllers.BuggyController": {
+        "Microsoft.AspNetCore.Mvc.ActionResult`1<System.String> WebService.Controllers.BuggyController::GetSecret()": {
+          "Lines": {
+            "20": 1,
+            "21": 1,
+            "22": 1
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.ActionResult`1<WebService.Entities.AppUser> WebService.Controllers.BuggyController::GetNotFound()": {
+          "Lines": {
+            "26": 0,
+            "27": 0,
+            "29": 0,
+            "31": 0,
+            "32": 0
+          },
+          "Branches": [
+            {
+              "Line": 29,
+              "Offset": 39,
+              "EndOffset": 41,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 39,
+              "EndOffset": 55,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "Microsoft.AspNetCore.Mvc.ActionResult`1<System.String> WebService.Controllers.BuggyController::GetServerError()": {
+          "Lines": {
+            "36": 1,
+            "37": 1,
+            "38": 1,
+            "40": 0,
+            "41": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.ActionResult`1<System.String> WebService.Controllers.BuggyController::GetBadRequest()": {
+          "Lines": {
+            "45": 1,
+            "46": 1,
+            "47": 1
+          },
+          "Branches": []
+        },
+        "System.Void WebService.Controllers.BuggyController::.ctor(WebService.Data.DataContext)": {
+          "Lines": {
+            "12": 3,
+            "13": 3,
+            "14": 3,
+            "15": 3
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Controllers\\LikesController.cs": {
+      "WebService.Controllers.LikesController": {
+        "System.Void WebService.Controllers.LikesController::.ctor(WebService.Interfaces.IUserRepository,WebService.Interfaces.ILikesRepository)": {
+          "Lines": {
+            "21": 6,
+            "22": 6,
+            "23": 6,
+            "24": 6,
+            "25": 6
+          },
+          "Branches": []
+        }
+      },
+      "WebService.Controllers.LikesController/<AddLike>d__3": {
+        "System.Void WebService.Controllers.LikesController/<AddLike>d__3::MoveNext()": {
+          "Lines": {
+            "29": 5,
+            "30": 5,
+            "31": 5,
+            "32": 5,
+            "34": 6,
+            "36": 5,
+            "38": 3,
+            "40": 6,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "48": 0,
+            "50": 0,
+            "52": 0,
+            "53": 5
+          },
+          "Branches": [
+            {
+              "Line": 34,
+              "Offset": 359,
+              "EndOffset": 361,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 34,
+              "Offset": 359,
+              "EndOffset": 378,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 4
+            },
+            {
+              "Line": 36,
+              "Offset": 404,
+              "EndOffset": 406,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 36,
+              "Offset": 404,
+              "EndOffset": 428,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 3
+            },
+            {
+              "Line": 40,
+              "Offset": 591,
+              "EndOffset": 593,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 3
+            },
+            {
+              "Line": 40,
+              "Offset": 591,
+              "EndOffset": 615,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 50,
+              "Offset": 809,
+              "EndOffset": 811,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 50,
+              "Offset": 809,
+              "EndOffset": 825,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "WebService.Controllers.LikesController/<GetUserLikes>d__4": {
+        "System.Void WebService.Controllers.LikesController/<GetUserLikes>d__4::MoveNext()": {
+          "Lines": {
+            "57": 1,
+            "58": 1,
+            "59": 1,
+            "61": 1,
+            "63": 1,
+            "64": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Controllers\\MessagesController.cs": {
+      "WebService.Controllers.MessagesController": {
+        "System.Void WebService.Controllers.MessagesController::.ctor(WebService.Interfaces.IUserRepository,WebService.Interfaces.IMessagesRepository,AutoMapper.IMapper)": {
+          "Lines": {
+            "23": 11,
+            "24": 11,
+            "25": 11,
+            "26": 11,
+            "27": 11,
+            "28": 11
+          },
+          "Branches": []
+        }
+      },
+      "WebService.Controllers.MessagesController/<CreateMessage>d__4": {
+        "System.Void WebService.Controllers.MessagesController/<CreateMessage>d__4::MoveNext()": {
+          "Lines": {
+            "32": 5,
+            "33": 5,
+            "35": 5,
+            "36": 1,
+            "38": 4,
+            "39": 4,
+            "41": 5,
+            "43": 3,
+            "44": 3,
+            "45": 3,
+            "46": 3,
+            "47": 3,
+            "48": 3,
+            "49": 3,
+            "50": 3,
+            "52": 3,
+            "54": 3,
+            "55": 3,
+            "57": 0,
+            "58": 5
+          },
+          "Branches": [
+            {
+              "Line": 35,
+              "Offset": 94,
+              "EndOffset": 96,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 35,
+              "Offset": 94,
+              "EndOffset": 123,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 4
+            },
+            {
+              "Line": 41,
+              "Offset": 418,
+              "EndOffset": 420,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 41,
+              "Offset": 418,
+              "EndOffset": 442,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 3
+            },
+            {
+              "Line": 54,
+              "Offset": 681,
+              "EndOffset": 683,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 3
+            },
+            {
+              "Line": 54,
+              "Offset": 681,
+              "EndOffset": 724,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "WebService.Controllers.MessagesController/<GetMessagesForUser>d__5": {
+        "System.Void WebService.Controllers.MessagesController/<GetMessagesForUser>d__5::MoveNext()": {
+          "Lines": {
+            "62": 2,
+            "63": 2,
+            "65": 2,
+            "66": 2,
+            "68": 2,
+            "69": 2
+          },
+          "Branches": []
+        }
+      },
+      "WebService.Controllers.MessagesController/<GetMessageThread>d__6": {
+        "System.Void WebService.Controllers.MessagesController/<GetMessageThread>d__6::MoveNext()": {
+          "Lines": {
+            "73": 1,
+            "74": 1,
+            "76": 1,
+            "77": 1
+          },
+          "Branches": []
+        }
+      },
+      "WebService.Controllers.MessagesController/<DeleteMessage>d__7": {
+        "System.Void WebService.Controllers.MessagesController/<DeleteMessage>d__7::MoveNext()": {
+          "Lines": {
+            "81": 3,
+            "82": 3,
+            "84": 3,
+            "86": 3,
+            "87": 1,
+            "89": 3,
+            "91": 3,
+            "93": 2,
+            "94": 1,
+            "96": 4,
+            "98": 0,
+            "99": 3
+          },
+          "Branches": [
+            {
+              "Line": 86,
+              "Offset": 211,
+              "EndOffset": 213,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 86,
+              "Offset": 211,
+              "EndOffset": 242,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 86,
+              "Offset": 247,
+              "EndOffset": 249,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 86,
+              "Offset": 247,
+              "EndOffset": 266,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 2
+            },
+            {
+              "Line": 89,
+              "Offset": 297,
+              "EndOffset": 299,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 89,
+              "Offset": 297,
+              "EndOffset": 312,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 2
+            },
+            {
+              "Line": 91,
+              "Offset": 343,
+              "EndOffset": 345,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 1
+            },
+            {
+              "Line": 91,
+              "Offset": 343,
+              "EndOffset": 358,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 2
+            },
+            {
+              "Line": 93,
+              "Offset": 369,
+              "EndOffset": 371,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 2
+            },
+            {
+              "Line": 93,
+              "Offset": 369,
+              "EndOffset": 384,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 93,
+              "Offset": 389,
+              "EndOffset": 391,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 1
+            },
+            {
+              "Line": 93,
+              "Offset": 389,
+              "EndOffset": 414,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 2
+            },
+            {
+              "Line": 96,
+              "Offset": 538,
+              "EndOffset": 540,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 2
+            },
+            {
+              "Line": 96,
+              "Offset": 538,
+              "EndOffset": 554,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "D:\\crowl\\Documents\\ProyectoWS\\WebService\\Controllers\\UsersController.cs": {
+      "WebService.Controllers.UsersController": {
+        "System.Void WebService.Controllers.UsersController::.ctor(WebService.Interfaces.IUserRepository,AutoMapper.IMapper,WebService.Interfaces.IPhotoService)": {
+          "Lines": {
+            "24": 5,
+            "25": 5,
+            "26": 5,
+            "27": 5,
+            "28": 5,
+            "29": 5
+          },
+          "Branches": []
+        }
+      },
+      "WebService.Controllers.UsersController/<GetUsers>d__4": {
+        "System.Void WebService.Controllers.UsersController/<GetUsers>d__4::MoveNext()": {
+          "Lines": {
+            "34": 1,
+            "35": 1,
+            "36": 1,
+            "38": 1,
+            "39": 1,
+            "41": 1,
+            "43": 1,
+            "45": 1,
+            "46": 1
+          },
+          "Branches": [
+            {
+              "Line": 38,
+              "Offset": 220,
+              "EndOffset": 222,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 39,
+              "Offset": 249,
+              "EndOffset": 251,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 39,
+              "Offset": 249,
+              "EndOffset": 258,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            },
+            {
+              "Line": 38,
+              "Offset": 220,
+              "EndOffset": 269,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "WebService.Controllers.UsersController/<GetUser>d__5": {
+        "System.Void WebService.Controllers.UsersController/<GetUser>d__5::MoveNext()": {
+          "Lines": {
+            "51": 1,
+            "52": 1,
+            "53": 1
+          },
+          "Branches": []
+        }
+      },
+      "WebService.Controllers.UsersController/<UpdateUser>d__6": {
+        "System.Void WebService.Controllers.UsersController/<UpdateUser>d__6::MoveNext()": {
+          "Lines": {
+            "58": 1,
+            "59": 1,
+            "61": 1,
+            "62": 1,
+            "64": 2,
+            "66": 0,
+            "67": 1
+          },
+          "Branches": [
+            {
+              "Line": 64,
+              "Offset": 348,
+              "EndOffset": 350,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 64,
+              "Offset": 348,
+              "EndOffset": 364,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "WebService.Controllers.UsersController/<AddPhoto>d__7": {
+        "System.Void WebService.Controllers.UsersController/<AddPhoto>d__7::MoveNext()": {
+          "Lines": {
+            "72": 1,
+            "73": 1,
+            "74": 1,
+            "76": 1,
+            "78": 1,
+            "79": 1,
+            "80": 1,
+            "81": 1,
+            "82": 1,
+            "85": 1,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "90": 1,
+            "92": 1,
+            "93": 1,
+            "94": 1,
+            "95": 1,
+            "96": 1,
+            "97": 1,
+            "100": 0,
+            "101": 1
+          },
+          "Branches": [
+            {
+              "Line": 76,
+              "Offset": 343,
+              "EndOffset": 345,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 76,
+              "Offset": 343,
+              "EndOffset": 383,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 85,
+              "Offset": 458,
+              "EndOffset": 460,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 85,
+              "Offset": 458,
+              "EndOffset": 475,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            },
+            {
+              "Line": 92,
+              "Offset": 622,
+              "EndOffset": 624,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 92,
+              "Offset": 622,
+              "EndOffset": 687,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "WebService.Controllers.UsersController/<>c__DisplayClass8_0": {
+        "System.Boolean WebService.Controllers.UsersController/<>c__DisplayClass8_0::<SetMainPhoto>b__0(WebService.Entities.Photo)": {
+          "Lines": {
+            "109": 2
+          },
+          "Branches": []
+        }
+      },
+      "WebService.Controllers.UsersController/<>c": {
+        "System.Boolean WebService.Controllers.UsersController/<>c::<SetMainPhoto>b__8_1(WebService.Entities.Photo)": {
+          "Lines": {
+            "113": 0
+          },
+          "Branches": []
+        }
+      },
+      "WebService.Controllers.UsersController/<SetMainPhoto>d__8": {
+        "System.Void WebService.Controllers.UsersController/<SetMainPhoto>d__8::MoveNext()": {
+          "Lines": {
+            "107": 1,
+            "108": 1,
+            "111": 1,
+            "115": 0,
+            "117": 0,
+            "119": 0,
+            "121": 0,
+            "122": 0
+          },
+          "Branches": [
+            {
+              "Line": 111,
+              "Offset": 254,
+              "EndOffset": 256,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 111,
+              "Offset": 254,
+              "EndOffset": 278,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 115,
+              "Offset": 344,
+              "EndOffset": 346,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 115,
+              "Offset": 344,
+              "EndOffset": 359,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 119,
+              "Offset": 496,
+              "EndOffset": 498,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 119,
+              "Offset": 496,
+              "EndOffset": 512,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "WebService.Controllers.UsersController/<>c__DisplayClass9_0": {
+        "System.Boolean WebService.Controllers.UsersController/<>c__DisplayClass9_0::<DeletePhoto>b__0(WebService.Entities.Photo)": {
+          "Lines": {
+            "129": 0
+          },
+          "Branches": []
+        }
+      },
+      "WebService.Controllers.UsersController/<DeletePhoto>d__9": {
+        "System.Void WebService.Controllers.UsersController/<DeletePhoto>d__9::MoveNext()": {
+          "Lines": {
+            "127": 0,
+            "128": 0,
+            "131": 0,
+            "133": 0,
+            "135": 0,
+            "136": 0,
+            "137": 0,
+            "139": 0,
+            "140": 0,
+            "142": 0,
+            "144": 0,
+            "146": 0,
+            "147": 0
+          },
+          "Branches": [
+            {
+              "Line": 131,
+              "Offset": 266,
+              "EndOffset": 268,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 131,
+              "Offset": 266,
+              "EndOffset": 285,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 133,
+              "Offset": 300,
+              "EndOffset": 302,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 133,
+              "Offset": 300,
+              "EndOffset": 324,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 135,
+              "Offset": 342,
+              "EndOffset": 347,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 139,
+              "Offset": 510,
+              "EndOffset": 512,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 139,
+              "Offset": 510,
+              "EndOffset": 545,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 135,
+              "Offset": 342,
+              "EndOffset": 553,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 144,
+              "Offset": 700,
+              "EndOffset": 702,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 144,
+              "Offset": 700,
+              "EndOffset": 716,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    }
+  }
+}
